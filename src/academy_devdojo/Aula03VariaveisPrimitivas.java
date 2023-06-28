@@ -3,6 +3,7 @@ package academy_devdojo;
 //meu jeito de fazer antes do professor
 public class Aula03VariaveisPrimitivas {
     public static void main(String[] args) {
+
         String nome = "Janier";
         String endereco = "Rua Crispim do Amaral";
         double  salario = 9000.55;
@@ -12,3 +13,4 @@ public class Aula03VariaveisPrimitivas {
     }
 
 }
+ 
